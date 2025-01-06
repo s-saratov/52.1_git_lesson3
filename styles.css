@@ -2,4 +2,6 @@ div {
     font-size: 34px;
     font-weight: bold;
     color: rgb(66, 24, 106);
+    border: 2px solid rgb(39, 32, 72);
+    padding: 20px;
 }
